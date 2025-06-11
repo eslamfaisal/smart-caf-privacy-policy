@@ -19,17 +19,43 @@ Sito web: [https://www.smartcaf.it/](https://www.smartcaf.it/)
 
 ## 📊 Dati Raccolti
 
-Per il corretto funzionamento dell'app e per consentire la creazione dell'account utente, raccogliamo esclusivamente i seguenti dati:
+Per il corretto funzionamento dell'app, per consentire la creazione e gestione dell’account utente e per migliorare l’esperienza d’uso, raccogliamo i seguenti dati personali:
+
+### 📌 Informazioni personali
 
 * **Nome**
 * **Indirizzo email**
+* **Indirizzo fisico**
+* **Numero di telefono**
 
-Questi dati sono indispensabili per:
+### 💳 Informazioni finanziarie
 
-* Consentire la registrazione e l'autenticazione.
-* Garantire le funzionalità di base dell'app.
+* **Dati di pagamento dell’utente** (es. IBAN, estremi carta, altri identificativi di transazioni)
 
-Non raccogliamo dati sensibili né condividiamo i dati personali con terze parti per scopi pubblicitari.
+### 🖼️ Foto e video
+
+* **Foto caricate dall’utente**
+
+### 🎙️ File audio
+
+* **Registrazioni vocali o suoni**
+
+### 📄 File e documenti
+
+* **Documenti e file caricati dall’utente**
+
+### ⚙️ Informazioni sull'app e prestazioni
+
+* **Log di crash e dati diagnostici**
+
+Questi dati sono raccolti esclusivamente per:
+
+* Consentire la registrazione, l’autenticazione e l’utilizzo completo dell’app.
+* Eseguire le funzionalità richieste dagli utenti.
+* Fornire assistenza tecnica.
+* Ottemperare a obblighi legali e normativi.
+
+**Non raccogliamo dati sensibili** (es. dati sanitari, religiosi, biometrici) né condividiamo i dati con terze parti per fini pubblicitari.
 
 ---
 
@@ -134,4 +160,3 @@ Per qualsiasi richiesta legata ai tuoi dati personali, contattaci via email:
 ## 📌 Nota Finale
 
 L’utente dichiara di avere il diritto di fornire i dati trasmessi, esonerando Smart Services S.R.L. da qualsiasi responsabilità derivante da dati errati, incompleti o conferiti da terzi non autorizzati.
- 
