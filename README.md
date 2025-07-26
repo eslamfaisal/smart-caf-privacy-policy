@@ -1,116 +1,162 @@
-# 📜 Informativa Privacy per l’App Smartcaf.it
+# 📜 Informativa Privacy
 
-**Ultimo aggiornamento:** Luglio 2025
+**Ultimo aggiornamento:** Giugno 2025
 
-La presente informativa descrive in modo chiaro come **Smart Services S.R.L.** raccoglie, utilizza, conserva e condivide i dati personali degli utenti che utilizzano l’app **Smartcaf.it**, in conformità al **Regolamento UE 2016/679 (GDPR)** e ai requisiti delle **Norme del Programma per sviluppatori di Google Play**.
+Ai sensi degli articoli 13 e ss. del **Regolamento UE n. 2016/679 (GDPR)**, ti informiamo su come i tuoi dati personali vengono trattati utilizzando la nostra applicazione.
 
 ---
 
-## 🔐 Titolare del trattamento
+## 🔐 Titolare del Trattamento
 
 **SMART SERVICES S.R.L.**
 Via Pola n. 11, 20154 Milano (MI)
 C.F. / P.IVA: 12220580968
 PEC: [smart.services@legalmail.it](mailto:smart.services@legalmail.it)
 Email: [amministrazione@smartcaf.it](mailto:amministrazione@smartcaf.it)
-Sito: [https://www.smartcaf.it](https://www.smartcaf.it)
+Sito web: [https://www.smartcaf.it/](https://www.smartcaf.it/)
 
 ---
 
-## 📥 Dati raccolti
+## 📊 Dati Raccolti
 
-L'app raccoglie i seguenti dati per il corretto funzionamento dei servizi offerti:
+Per il corretto funzionamento dell'app, per consentire la creazione e gestione dell’account utente e per migliorare l’esperienza d’uso, raccogliamo i seguenti dati personali:
 
-* **Dati anagrafici:** nome, indirizzo, telefono, email
-* **Dati finanziari:** IBAN, estremi di pagamento
-* **File utente:** documenti fiscali, foto, audio
-* **Dati tecnici:** log, diagnostica, crash report
+### 📌 Informazioni personali
 
-Questi dati vengono forniti **direttamente dall’utente** durante l’uso dell’app e **non vengono raccolti in background** senza interazione attiva.
+* **Nome**
+* **Indirizzo email**
+* **Indirizzo fisico**
+* **Numero di telefono**
 
----
+### 💳 Informazioni finanziarie
 
-## 🎯 Finalità del trattamento
+* **Dati di pagamento dell’utente** (es. IBAN, estremi carta, altri identificativi di transazioni)
 
-I dati sono utilizzati per:
+### 🖼️ Foto e video
 
-* Erogare i servizi richiesti (fiscali e previdenziali)
-* Gestire e supportare l’account dell’utente
-* Rispondere a richieste di assistenza
-* Adempiere a obblighi fiscali e legali
-* Inviare comunicazioni commerciali solo previo consenso
+* **Foto caricate dall’utente**
 
----
+### 🎙️ File audio
 
-## 🤝 Condivisione dei dati
+* **Registrazioni vocali o suoni**
 
-I dati **non vengono venduti o condivisi a scopo pubblicitario**.
-I dati possono essere condivisi solo con:
+### 📄 File e documenti
 
-* Collaboratori e consulenti (commercialisti, legali)
-* Fornitori di servizi strettamente necessari all’erogazione tecnica dell’app
-* Autorità pubbliche nei casi previsti dalla legge
+* **Documenti e file caricati dall’utente**
 
-Tutti i soggetti terzi sono vincolati da obblighi contrattuali di riservatezza e conformità al GDPR.
+### ⚙️ Informazioni sull'app e prestazioni
 
----
+* **Log di crash e dati diagnostici**
 
-## 🔐 Sicurezza e protezione
+Questi dati sono raccolti esclusivamente per:
 
-I dati personali sono trattati con **misure tecniche e organizzative adeguate** a garantire:
+* Consentire la registrazione, l’autenticazione e l’utilizzo completo dell’app.
+* Eseguire le funzionalità richieste dagli utenti.
+* Fornire assistenza tecnica.
+* Ottemperare a obblighi legali e normativi.
 
-* Riservatezza e integrità
-* Prevenzione di accessi non autorizzati
-* Conservazione sicura e protetta
+**Non raccogliamo dati sensibili** (es. dati sanitari, religiosi, biometrici) né condividiamo i dati con terze parti per fini pubblicitari.
 
 ---
 
-## 🗂️ Conservazione dei dati
+## 🎯 Finalità del Trattamento
 
-I dati sono conservati:
+I dati personali raccolti saranno utilizzati per:
 
-* Per la durata dell’account utente
-* Per il periodo necessario a soddisfare obblighi fiscali e legali
-* Fino a richiesta di cancellazione da parte dell’utente
-
----
-
-## 🌍 Trasferimento internazionale
-
-Eventuali trasferimenti di dati verso Paesi extra-UE avvengono solo se necessari e garantiti da adeguate misure di protezione previste dal GDPR.
+* L’esecuzione del contratto e delle funzionalità dell’app.
+* Adempimenti fiscali, legali e regolamentari.
+* Promozione e sviluppo dei servizi forniti da Smart Services S.R.L. e professionisti collegati.
 
 ---
 
-## 📱 Tracciamento e profilazione
+## ⚙️ Modalità del Trattamento
 
-Non viene effettuata **profilazione commerciale automatizzata**.
-L'app può usare strumenti di analisi aggregati (es. crash analytics) per migliorare la qualità del servizio.
-
----
-
-## 🧑 Diritti dell’utente
-
-L’utente ha diritto a:
-
-* Accedere, correggere o cancellare i propri dati
-* Revocare il consenso in qualsiasi momento
-* Opporsi al trattamento
-* Chiedere la portabilità dei dati
-* Presentare reclamo al Garante Privacy
-
-Per esercitare i propri diritti, scrivere a: **[amministrazione@smartcaf.it](mailto:amministrazione@smartcaf.it)**
+I dati saranno trattati con strumenti informatici e telematici, in modo lecito, corretto e trasparente. I dati sono conservati in ambienti sicuri e protetti da accessi non autorizzati.
 
 ---
 
-## ❗ Disclaimer importante
+## 👥 Categorie di Destinatari
 
-**Smartcaf.it è un servizio privato** offerto da Smart Services S.R.L. e **non è affiliato con enti pubblici o governativi**. L'app fornisce supporto e consulenza per la gestione di pratiche fiscali e previdenziali, ma non sostituisce i canali ufficiali delle istituzioni pubbliche.
+I tuoi dati possono essere comunicati a:
+
+* Collaboratori interni ed esterni.
+* Consulenti (commercialisti, legali, ecc.).
+* Aziende partner per l’erogazione dei servizi richiesti.
+
+**Nessun dato viene diffuso pubblicamente.**
 
 ---
 
-## 📩 Contatti
+## 🌍 Trasferimento dei Dati all'Estero
 
-Per qualsiasi richiesta legata alla privacy o all’uso dei dati, contattaci:
-📧 [amministrazione@smartcaf.it](mailto:amministrazione@smartcaf.it)
-🌐 [https://www.smartcaf.it/privacy](https://www.smartcaf.it/privacy)
+I dati potranno essere trasferiti in Paesi UE e Paesi terzi solo se necessario e nel rispetto delle disposizioni del GDPR.
 
+---
+
+## ⏳ Periodo di Conservazione
+
+I dati verranno conservati solo per il tempo necessario a soddisfare:
+
+* Obblighi contrattuali.
+* Finalità di marketing (se acconsentito).
+* Obblighi normativi e fiscali.
+
+---
+
+## 🧑‍💼 Responsabile della Protezione dei Dati (DPO)
+
+Attualmente non è stato nominato un DPO, in quanto non sussistono obblighi normativi specifici né trattamenti di dati su larga scala o ad alto rischio.
+
+---
+
+## ✅ Consenso
+
+Il conferimento dei dati è **facoltativo**, ma necessario per usufruire delle funzionalità dell’app. Il consenso può essere revocato in qualsiasi momento scrivendo a:
+📧 **[amministrazione@smartcaf.it](mailto:amministrazione@smartcaf.it)**
+
+---
+
+## 📥 Diritti dell’Interessato
+
+Hai diritto a:
+
+* Accedere, aggiornare, correggere o cancellare i tuoi dati.
+* Limitare o opporti al trattamento.
+* Richiedere la portabilità dei dati.
+* Revocare il consenso in qualsiasi momento.
+* Proporre reclamo all’Autorità Garante.
+
+---
+
+## 🧠 Processi Automatizzati e Profilazione
+
+Smart Services S.R.L. può utilizzare processi automatizzati per:
+
+* Ottimizzare i servizi.
+* Offrire contenuti e servizi personalizzati.
+
+Hai il diritto di **opporti alla profilazione** in qualsiasi momento.
+
+---
+
+## 📢 Comunicazioni Commerciali (Marketing)
+
+Solo previo consenso, potremo inviarti:
+
+* Offerte promozionali.
+* Comunicazioni relative a servizi e iniziative.
+
+Potrai disiscriverti in qualsiasi momento tramite le impostazioni dell’app o contattando l’assistenza.
+
+---
+
+## 📩 Richieste e Contatti
+
+Per qualsiasi richiesta legata ai tuoi dati personali, contattaci via email:
+📧 **[amministrazione@smartcaf.it](mailto:amministrazione@smartcaf.it)**
+
+---
+
+## 📌 Nota Finale
+
+L’utente dichiara di avere il diritto di fornire i dati trasmessi, esonerando Smart Services S.R.L. da qualsiasi responsabilità derivante da dati errati, incompleti o conferiti da terzi non autorizzati.
